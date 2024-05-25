@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧔 My name is Shabinder. I am a 23 years old Seft-Taught Developer.
+📚 I earned my Bachelor of Technology (B.Tech) degree in Computer Science and Engineering in 2023.
+💻 I am a Mobile App Developer, proficient in Kotlin Multiplatform and a GNU/Linux Enthusiast!.
